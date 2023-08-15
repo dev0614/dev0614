@@ -113,11 +113,8 @@
   </h2>
   <br />
 <p align="center">
-<<<<<<< HEAD
   <a href="mailto:luckydeveloper1113@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-=======
   <a href="mailto:zhengming.ch.ai@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
->>>>>>> 51f523a01e0a26b2bc0dc6c0680b757352dcfee9
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://join.skype.com/invite/qfQw30C4Exhl" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -139,6 +136,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 <<<<<<< HEAD
 </p>
-=======
+
 </p>
->>>>>>> 51f523a01e0a26b2bc0dc6c0680b757352dcfee9
+
