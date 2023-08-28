@@ -9,10 +9,10 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: atosinu/gitartwork@v1.01
+       - uses: dev0614/gitartwork@v1.01
          with:
             # Use this username's contribution graph  
-            user_name: atosinu
+            user_name: dev0614
             # Text on contribution graph 
-            text: CAPTAIN
-       - uses: atosinu/push-action@v1
+            text: dev0614
+       - uses: dev0614/push-action@v1
