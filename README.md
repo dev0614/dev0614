@@ -79,14 +79,6 @@
   <img src="./divider2.png" alt="divider"/>
 </div> 
 
-
-<h2 align="left" id="macropower-tech">Github Metrics</h2>
-
-<br />
-
-<p align="center">
-    <img alt="metrics" title="Github Metrics" src="https://github.com/dev-captain/dev-captain/blob/main/github-metrics.svg" width="100%" />
-</p>
 <h2 align="left" id="macropower-tech">Github Status</h2>
 
 <br />
