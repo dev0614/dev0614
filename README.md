@@ -83,8 +83,7 @@
 
 <br />
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-captain&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-captain&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
+    <a href="https://github.com/santa116"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santa116&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
 
 <br />
