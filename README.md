@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/atosinu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20FullStack%20Developer;6%2B%20years%20of%20development%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/dev0614"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20FullStack%20Developer;6%2B%20years%20of%20development%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
@@ -91,7 +91,7 @@
 <!-- > GitHub Activity Graph -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/dev-captain/dev-captain"><img alt="atosinu's activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dev-captain&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/dev-captain/dev-captain"><img alt="dev0614's activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dev-captain&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <br />
 <div align="center">
@@ -115,11 +115,11 @@
 <h2 align="center"> Thanks for visiting my profile. </h2>
 
 <p align="right">
-  <a href="https://github.com/atosinu?tab=repositories&sort=stargazers">
+  <a href="https://github.com/dev0614?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dev-captain"/></a>
-  <a href="https://github.com/atosinu?tab=followers">
+  <a href="https://github.com/dev0614?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/dev-captain?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/atosinu">
+  <a href="https://github.com/dev0614">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=dev-captain&style=for-the-badge"/></a>
 </p>
 <p align="center">
