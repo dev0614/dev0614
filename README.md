@@ -87,13 +87,6 @@
 </p>
 
 <br />
-
-<!-- > GitHub Activity Graph -->
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/dev-captain/dev-captain"><img alt="dev0614's activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dev-captain&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-<br />
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
 </div> 
@@ -104,7 +97,7 @@
   </h2>
   <br />
 <p align="center">
-  <a href="mailto:zhengming.ch.ai@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:shimamuratakehiko44@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://join.skype.com/invite/qfQw30C4Exhl" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
