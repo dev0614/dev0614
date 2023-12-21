@@ -48,10 +48,10 @@
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Django-blue" /> 
         <img src="https://img.shields.io/badge/Python-blue" /> 
-        <img src="https://img.shields.io/badge/Selenium-blue" />        
+        <img src="https://img.shields.io/badge/Solidity-blue" />        
         <img src="https://img.shields.io/badge/Ruby-blue" /> 
-        <img src="https://img.shields.io/badge/Rails-blue" /> 
-        <img src="https://img.shields.io/badge/BeautifulSoup-blue" /> 
+        <img src="https://img.shields.io/badge/Rust-blue" /> 
+        <img src="https://img.shields.io/badge/Solana-blue" /> 
         <img src="https://img.shields.io/badge/Pandas-blue" /> 
         <img src="https://img.shields.io/badge/Numpy-blue" /> 
         <img src="https://img.shields.io/badge/Flask-blue" /> 
