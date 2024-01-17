@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hi, Nice to meet you.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
 
 ### 🏅Experience
 More than 9 years of experience with web and app development, 3+ years of blockchain part. 
 - Built **NFT** projects like **Minting**, **Staking**, **Breeding**, **Mutex**(Evolution), **Marketplace**, **Launchpad**, **Utility Token creation**, ICO/IDO on **EVM** & **Solana**
 - Built Simple P2E Web3 games like CoinFlip, Tower, Crach, Dice, Minesweeper
 - Built DEXs, DAO on EVM and Solana
+</h1>
 
 <p align="center"> 
   Visitor count<br>
