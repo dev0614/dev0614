@@ -17,7 +17,11 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
+  ### 🏅Experience
+More than 9 years of experience with web and app development, 3+ years of blockchain part. 
+- Built **NFT** projects like **Minting**, **Staking**, **Breeding**, **Mutex**(Evolution), **Marketplace**, **Launchpad**, **Utility Token creation**, ICO/IDO on **EVM** & **Solana**
+- Built Simple P2E Web3 games like CoinFlip, Tower, Crach, Dice, Minesweeper
+- Built DEXs, DAO on EVM and Solana
 </div> 
 <div align="center">
   <img src="./divider1.png" alt="divider"/>
