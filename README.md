@@ -111,9 +111,9 @@ More than 4 years of experience with web and app development, 3+ years of blockc
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://join.skype.com/invite/uYaABW2RJBwW" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/FC2szEBZ" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
+  <a href="https://discord.gg/cBEtJX7f" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/FC2szEBZ" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/slack.png"  width="50" /></a>
+  <a href="https://discord.gg/cBEtJX7f" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/slack.png"  width="50" /></a>
 </p>
 <h2 align="center"> Thanks for visiting my profile. </h2>
 
