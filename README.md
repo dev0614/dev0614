@@ -14,10 +14,6 @@ More than 4 years of experience with web and app development, 3+ years of blockc
   <img src="./divider2.png" alt="divider"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev0614&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/dev0614/count.svg" />
