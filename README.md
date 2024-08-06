@@ -5,7 +5,7 @@
 </h1>
 
 ### 🏅Experience
-More than 4 years of experience with web and app development, 3+ years of blockchain part. 
+More than 6 years of experience with web and app development, 4+ years of blockchain part. 
 - Built **NFT** projects like **Minting**, **Staking**, **Breeding**, **Mutex**(Evolution), **Marketplace**, **Launchpad**, **Utility Token creation**, ICO/IDO on **EVM** & **Solana**
 - Built Simple P2E Web3 games like CoinFlip, Tower, Crach, Dice, Minesweeper
 - Built DEXs, DAO on EVM and Solana
