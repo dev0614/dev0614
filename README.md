@@ -93,7 +93,7 @@ More than 6 years of experience with web and app development, 4+ years of blockc
 
 <br />
 <p align="center">
-    <a href="https://github.com/dev0614"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev0614&theme=dark&hide=html,css,cmake,scss,shell,javascript,makefile&layout=compact&langs_count=8&bg_color=101010&hide_title=true"></a>
+    <a href="https://github.com/dev0614"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev0614&theme=dark&hide=html,css,cmake,scss,shell,javascript,makefile&layout=compact&langs_count=4&bg_color=101010&hide_title=true"></a>
 </p>
 
 <br />
